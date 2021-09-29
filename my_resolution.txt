@@ -1,5 +1,4 @@
 My Resolution
 1.  Belajar Frontend
 2. Belajar Backend
-3. Membuat  proyek
-4. Jualan proyek
+3. Belajar Mobile Programming
